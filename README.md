@@ -27,7 +27,7 @@ Asignatura: Inteligencia Artificial
 
 Este proyecto tiene como finalidad realizar un análisis exploratorio de datos sobre el consumo energético de una industria mediante la generación de datos sintéticos y la aplicación de técnicas de análisis estadístico y visualización de datos utilizando las librerías **NumPy**, **Matplotlib** y **Seaborn**.
 
-A partir de una simulación de **500 registros diarios**, se estudian las relaciones entre la producción industrial, las horas de operación, la temperatura ambiente y el consumo energético, con el objetivo de identificar patrones, tendencias y oportunidades de optimización.
+A partir de una simulación de 500 registros diarios, se estudian las relaciones entre la producción industrial, las horas de operación, la temperatura ambiente y el consumo energético, con el objetivo de identificar patrones, tendencias y oportunidades de optimización.
 
 ---
 
@@ -119,7 +119,7 @@ Permite observar la evolución del consumo energético a lo largo del tiempo.
 ### Resultado
 
 <p align="center">
-<img src="images/serie_temporal.png" width="850">
+  <img src="images/serie_temporal.png" width="850">
 </p>
 
 ---
@@ -131,7 +131,7 @@ Permite analizar la distribución de frecuencias del consumo energético.
 ### Resultado
 
 <p align="center">
-<img src="images/histograma_consumo.png" width="850">
+  <img src="images/histograma_consumo.png" width="850">
 </p>
 
 ---
@@ -143,7 +143,7 @@ Relación entre la producción diaria y el consumo energético.
 ### Resultado
 
 <p align="center">
-<img src="images/dispersion_consumo.png" width="850">
+  <img src="images/dispersion_consumo.png" width="850">
 </p>
 
 ---
@@ -157,7 +157,7 @@ Permite identificar relaciones entre las variables numéricas.
 ### Resultado
 
 <p align="center">
-<img src="images/heatmap.png" width="850">
+  <img src="images/heatmap.png" width="850">
 </p>
 
 ---
@@ -169,7 +169,7 @@ Visualización simultánea de relaciones entre variables.
 ### Resultado
 
 <p align="center">
-<img src="images/pairplot.png" width="850">
+  <img src="images/pairplot.png" width="850">
 </p>
 
 ---
@@ -181,7 +181,7 @@ Permite observar tendencias y relaciones lineales.
 ### Resultado
 
 <p align="center">
-<img src="images/regplot.png" width="850">
+  <img src="images/regplot.png" width="850">
 </p>
 
 ---
