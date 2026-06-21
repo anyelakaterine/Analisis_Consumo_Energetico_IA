@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="images/logo_unipacifico.png" width="180">
-</p>
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/9646a6c6-415d-4c89-98af-690cb0cc969e" />
+
 
 <h1 align="center">
 Análisis de Consumo Energético en una Industria
@@ -117,10 +116,7 @@ Se calcularon las principales métricas descriptivas del consumo energético:
 Permite observar la evolución del consumo energético a lo largo del tiempo.
 
 ### Resultado
-
-<p align="center">
-  <img src="images/serie_temporal.png" width="850">
-</p>
+<img width="1014" height="471" alt="image" src="https://github.com/user-attachments/assets/bcceef90-153b-40aa-bbda-dd032185138d" />
 
 ---
 
@@ -130,9 +126,8 @@ Permite analizar la distribución de frecuencias del consumo energético.
 
 ### Resultado
 
-<p align="center">
-  <img src="images/histograma_consumo.png" width="850">
-</p>
+<img width="691" height="471" alt="image" src="https://github.com/user-attachments/assets/27d49ba3-e580-4dd6-9666-39393f334724" />
+
 
 ---
 
@@ -142,9 +137,8 @@ Relación entre la producción diaria y el consumo energético.
 
 ### Resultado
 
-<p align="center">
-  <img src="images/dispersion_consumo.png" width="850">
-</p>
+<img width="705" height="471" alt="image" src="https://github.com/user-attachments/assets/f0ed47e6-9f8f-4a79-8a9e-d356f60b2adb" />
+
 
 ---
 
@@ -156,9 +150,8 @@ Permite identificar relaciones entre las variables numéricas.
 
 ### Resultado
 
-<p align="center">
-  <img src="images/heatmap.png" width="850">
-</p>
+<img width="774" height="676" alt="image" src="https://github.com/user-attachments/assets/0a6b52a4-d3b7-4852-92c2-1856eff7d95c" />
+
 
 ---
 
@@ -168,9 +161,8 @@ Visualización simultánea de relaciones entre variables.
 
 ### Resultado
 
-<p align="center">
-  <img src="images/pairplot.png" width="850">
-</p>
+<img width="1231" height="1231" alt="image" src="https://github.com/user-attachments/assets/8478ebbc-2782-4d1e-ac95-3e50f20d4419" />
+
 
 ---
 
@@ -180,9 +172,8 @@ Permite observar tendencias y relaciones lineales.
 
 ### Resultado
 
-<p align="center">
-  <img src="images/regplot.png" width="850">
-</p>
+<img width="704" height="471" alt="image" src="https://github.com/user-attachments/assets/2ac37dff-e2d7-4b31-85ab-c790e762b286" />
+
 
 ---
 
