@@ -146,7 +146,8 @@ Relación entre la producción diaria y el consumo energético.
 ### Resultado
 
 <p align="center">
-<img width="691" height="471" alt="image" src="https://github.com/user-attachments/assets/03876f34-c343-4738-b22e-313fb6c123c7" />
+<img width="705" height="471" alt="image" src="https://github.com/user-attachments/assets/69ba3e53-1d6f-4a22-bf3c-bf5e4f2917a7" />
+
 
 </p>
 
