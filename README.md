@@ -2,13 +2,15 @@
   <img src="images/logo_unipacifico.png" width="180">
 </p>
 
-<h1 align="center">📊 Análisis de Consumo Energético en una Industria</h1>
+<h1 align="center">
+Análisis de Consumo Energético en una Industria
+</h1>
 
-<h3 align="center">
-Universidad del Pacífico <br>
-Programa de Ingeniería de Sistemas <br>
-Inteligencia Artificial
-</h3>
+<p align="center">
+<strong>Universidad del Pacífico</strong><br>
+Programa de Ingeniería de Sistemas<br>
+Asignatura: Inteligencia Artificial
+</p>
 
 <p align="center">
 
@@ -21,7 +23,7 @@ Inteligencia Artificial
 
 ---
 
-# 📖 Descripción del Proyecto
+# Descripción del Proyecto
 
 Este proyecto tiene como finalidad realizar un análisis exploratorio de datos sobre el consumo energético de una industria mediante la generación de datos sintéticos y la aplicación de técnicas de análisis estadístico y visualización de datos utilizando las librerías **NumPy**, **Matplotlib** y **Seaborn**.
 
@@ -29,7 +31,7 @@ A partir de una simulación de **500 registros diarios**, se estudian las relaci
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
 ## Objetivo General
 
@@ -46,7 +48,7 @@ Analizar el comportamiento del consumo energético de una industria mediante her
 
 ---
 
-# 👨‍💻 Integrantes
+# Integrantes
 
 | Nombre |
 |----------|
@@ -56,7 +58,7 @@ Analizar el comportamiento del consumo energético de una industria mediante her
 
 ---
 
-# 👨‍🏫 Información Académica
+# Información Académica
 
 | Información | Detalle |
 |------------|---------|
@@ -69,7 +71,7 @@ Analizar el comportamiento del consumo energético de una industria mediante her
 
 ---
 
-# 📂 Variables del Dataset
+# Variables del Dataset
 
 El conjunto de datos está conformado por las siguientes variables:
 
@@ -83,7 +85,7 @@ El conjunto de datos está conformado por las siguientes variables:
 
 ---
 
-# 🛠️ Herramientas Utilizadas
+# Herramientas Utilizadas
 
 - Python
 - NumPy
@@ -96,7 +98,7 @@ El conjunto de datos está conformado por las siguientes variables:
 
 ---
 
-# 📊 Análisis Estadístico con NumPy
+# Análisis Estadístico con NumPy
 
 Se calcularon las principales métricas descriptivas del consumo energético:
 
@@ -108,7 +110,7 @@ Se calcularon las principales métricas descriptivas del consumo energético:
 
 ---
 
-# 📈 Visualizaciones con Matplotlib
+# Visualizaciones con Matplotlib
 
 ## Serie Temporal del Consumo Energético
 
@@ -117,7 +119,7 @@ Permite observar la evolución del consumo energético a lo largo del tiempo.
 ### Resultado
 
 <p align="center">
-<img src="images/serie_temporal.png" width="800">
+<img src="images/serie_temporal.png" width="850">
 </p>
 
 ---
@@ -129,7 +131,7 @@ Permite analizar la distribución de frecuencias del consumo energético.
 ### Resultado
 
 <p align="center">
-<img src="images/histograma_consumo.png" width="800">
+<img src="images/histograma_consumo.png" width="850">
 </p>
 
 ---
@@ -141,12 +143,12 @@ Relación entre la producción diaria y el consumo energético.
 ### Resultado
 
 <p align="center">
-<img src="images/dispersion_consumo.png" width="800">
+<img src="images/dispersion_consumo.png" width="850">
 </p>
 
 ---
 
-# 🔥 Análisis Exploratorio con Seaborn
+# Análisis Exploratorio con Seaborn
 
 ## Heatmap de Correlación
 
@@ -155,7 +157,7 @@ Permite identificar relaciones entre las variables numéricas.
 ### Resultado
 
 <p align="center">
-<img src="images/heatmap.png" width="800">
+<img src="images/heatmap.png" width="850">
 </p>
 
 ---
@@ -167,7 +169,7 @@ Visualización simultánea de relaciones entre variables.
 ### Resultado
 
 <p align="center">
-<img src="images/pairplot.png" width="800">
+<img src="images/pairplot.png" width="850">
 </p>
 
 ---
@@ -179,28 +181,25 @@ Permite observar tendencias y relaciones lineales.
 ### Resultado
 
 <p align="center">
-<img src="images/regplot.png" width="800">
+<img src="images/regplot.png" width="850">
 </p>
 
 ---
 
-# 🔎 Resultados del Análisis
+# Resultados del Análisis
 
 Después de analizar los datos obtenidos se identificó que:
 
-✅ La producción diaria presenta una relación directa con el consumo energético.
-
-✅ Las horas de operación influyen significativamente en el gasto energético.
-
-✅ Existen días con consumos superiores al promedio que pueden considerarse anomalías.
-
-✅ La temperatura ambiente presenta una influencia moderada sobre el consumo.
+- La producción diaria presenta una relación directa con el consumo energético.
+- Las horas de operación influyen significativamente en el gasto energético.
+- Existen días con consumos superiores al promedio que pueden considerarse anomalías.
+- La temperatura ambiente presenta una influencia moderada sobre el consumo.
 
 ---
 
-# ❓ Preguntas del Taller
+# Preguntas del Taller
 
-## ¿Qué variables afectan el consumo?
+## ¿Qué variables afectan el consumo energético?
 
 Las variables que presentan mayor influencia son:
 
@@ -208,13 +207,9 @@ Las variables que presentan mayor influencia son:
 - Horas de operación.
 - Temperatura ambiente.
 
----
-
-## ¿Existen días anómalos?
+## ¿Existen días con comportamientos anómalos?
 
 Sí. Algunos registros muestran consumos significativamente superiores al promedio general.
-
----
 
 ## ¿Cómo podría reducirse el gasto energético?
 
@@ -225,7 +220,7 @@ Sí. Algunos registros muestran consumos significativamente superiores al promed
 
 ---
 
-# 💡 Propuesta de Optimización Energética
+# Propuesta de Optimización Energética
 
 Con base en los resultados obtenidos se propone:
 
@@ -237,34 +232,53 @@ Con base en los resultados obtenidos se propone:
 
 ---
 
-# 📁 Estructura del Proyecto
+# Conclusiones
 
-```text
-📦 Analisis_Consumo_Energetico
-│
-├── 📂 data
-│   └── datos_industria.csv
-│
-├── 📂 images
-│   ├── serie_temporal.png
-│   ├── histograma_consumo.png
-│   ├── dispersion_consumo.png
-│   ├── heatmap.png
-│   ├── pairplot.png
-│   └── regplot.png
-│
-├── 📂 notebooks
-│   └── Taller_NumPy_Matplotlib_Seaborn.ipynb
-│
-├── requirements.txt
-│
-└── README.md
-```
+- Se logró generar y analizar un conjunto de datos sintéticos que representa el comportamiento energético de una industria durante un período de operación.
 
-# 🚀 Instalación
+- El análisis estadístico permitió identificar tendencias generales del consumo energético, así como valores máximos, mínimos y promedios relevantes para la toma de decisiones.
+
+- Las visualizaciones desarrolladas con Matplotlib facilitaron la comprensión del comportamiento de las variables y las relaciones existentes entre ellas.
+
+- El análisis realizado con Seaborn permitió identificar correlaciones entre la producción diaria, las horas de operación, la temperatura ambiente y el consumo energético.
+
+- Se evidenció que variables como la producción diaria y las horas de operación tienen una influencia significativa sobre el consumo energético de la industria.
+
+- La detección de comportamientos atípicos demuestra la importancia del análisis de datos para optimizar procesos y reducir costos operativos.
+
+---
+
+# Aprendizajes Obtenidos
+
+Durante el desarrollo de este proyecto se fortalecieron conocimientos relacionados con:
+
+- Manipulación y análisis de datos utilizando la librería NumPy.
+- Creación de gráficos estadísticos mediante Matplotlib.
+- Desarrollo de análisis exploratorio de datos con Seaborn.
+- Interpretación de métricas estadísticas para la toma de decisiones.
+- Identificación de patrones y correlaciones entre variables.
+- Aplicación de herramientas de Ciencia de Datos en contextos industriales.
+- Uso de Python como herramienta para el análisis y visualización de información.
+
+Asimismo, se comprendió la importancia de la analítica de datos dentro de los procesos industriales, permitiendo transformar datos en información útil para la optimización de recursos y la mejora de la eficiencia energética.
+
+---
+
+# Trabajo Futuro
+
+Como trabajo futuro se propone:
+
+- Implementar modelos predictivos de consumo energético mediante técnicas de aprendizaje automático.
+- Incorporar más variables operativas para mejorar el análisis.
+- Desarrollar tableros interactivos para el monitoreo en tiempo real.
+- Evaluar diferentes estrategias de optimización energética basadas en los resultados obtenidos.
+
+---
+
+# Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone https://github.com/TU_USUARIO/Analisis_Consumo_Energetico_IA.git
 ```
 
 ```bash
@@ -273,7 +287,7 @@ pip install numpy pandas matplotlib seaborn
 
 ---
 
-# ▶️ Ejecutar Proyecto
+# Ejecución
 
 ```bash
 jupyter notebook
@@ -283,15 +297,15 @@ o abrir directamente en Google Colab.
 
 ---
 
-# 📜 Licencia
+# Licencia
 
-Proyecto desarrollado con fines académicos para la asignatura de Inteligencia Artificial de la Universidad del Pacífico.
+Proyecto académico desarrollado para la asignatura de Inteligencia Artificial de la Universidad del Pacífico.
 
 ---
 
 <p align="center">
-<b>Universidad del Pacífico</b><br>
-Ingeniería de Sistemas<br>
-Buenaventura - Valle del Cauca<br>
+<strong>Universidad del Pacífico</strong><br>
+Programa de Ingeniería de Sistemas<br>
+Buenaventura, Valle del Cauca - Colombia<br>
 2026
-</p># Analisis_Consumo_Energetico_IA
+</p>
