@@ -120,7 +120,8 @@ Permite observar la evolución del consumo energético a lo largo del tiempo.
 ### Resultado
 
 <p align="center">
-  <img src="images/serie_temporal.png" width="850">
+  <img width="1014" height="471" alt="image" src="https://github.com/user-attachments/assets/71fe7302-b1fa-433a-8b18-668ab86ba822" />
+
 </p>
 
 ---
@@ -132,7 +133,8 @@ Permite analizar la distribución de frecuencias del consumo energético.
 ### Resultado
 
 <p align="center">
-  <img src="images/histograma_consumo.png" width="850">
+  <img width="691" height="471" alt="image" src="https://github.com/user-attachments/assets/921d44ce-2f2f-489e-91ac-3925406c3934" />
+
 </p>
 
 ---
@@ -144,7 +146,8 @@ Relación entre la producción diaria y el consumo energético.
 ### Resultado
 
 <p align="center">
-  <img src="images/dispersion_consumo.png" width="850">
+<img width="691" height="471" alt="image" src="https://github.com/user-attachments/assets/03876f34-c343-4738-b22e-313fb6c123c7" />
+
 </p>
 
 ---
@@ -158,7 +161,8 @@ Permite identificar relaciones entre las variables numéricas.
 ### Resultado
 
 <p align="center">
-  <img src="images/heatmap.png" width="850">
+<img width="774" height="676" alt="image" src="https://github.com/user-attachments/assets/e0e616ea-4840-4f1e-8940-3d92459ffe3b" />
+
 </p>
 
 ---
@@ -170,7 +174,8 @@ Visualización simultánea de relaciones entre variables.
 ### Resultado
 
 <p align="center">
-  <img src="images/pairplot.png" width="850">
+  <img width="1231" height="1231" alt="image" src="https://github.com/user-attachments/assets/434072fd-dbd3-43c3-9157-18606955b2e8" />
+
 </p>
 
 ---
@@ -182,7 +187,8 @@ Permite observar tendencias y relaciones lineales.
 ### Resultado
 
 <p align="center">
-  <img src="images/regplot.png" width="850">
+  <img width="704" height="471" alt="image" src="https://github.com/user-attachments/assets/d1297edd-468a-4cbf-90b0-9745395b4589" />
+
 </p>
 
 ---
