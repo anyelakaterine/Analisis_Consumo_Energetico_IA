@@ -22,53 +22,47 @@ Asignatura: Inteligencia Artificial
 
 </p>
 ---
-<p align="center">
+## 📑 Tabla de Contenido
 
-# Tabla de Contenido
+- **Información General**
+  - [Descripción del Proyecto](#descripción-del-proyecto)
+  - [Objetivos](#objetivos)
+  - [Integrantes](#integrantes)
+  - [Información Académica](#información-académica)
 
-</p>
+- **Preparación de los Datos**
+  - [Variables del Dataset](#variables-del-dataset)
+  - [Herramientas Utilizadas](#herramientas-utilizadas)
 
-## 1. Información General
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Objetivos](#objetivos)
-  - [Objetivo General](#objetivo-general)
-  - [Objetivos Específicos](#objetivos-específicos)
-- [Integrantes](#integrantes)
-- [Información Académica](#información-académica)
+- **Análisis Estadístico**
+  - [Análisis Estadístico con NumPy](#análisis-estadístico-con-numpy)
 
-## 2. Preparación de los Datos
-- [Variables del Dataset](#variables-del-dataset)
-- [Herramientas Utilizadas](#herramientas-utilizadas)
+- **Visualización de Datos**
+  - [Serie Temporal del Consumo Energético](#serie-temporal-del-consumo-energético)
+  - [Histograma del Consumo Energético](#histograma-del-consumo-energético)
+  - [Gráfico de Dispersión](#gráfico-de-dispersión)
 
-## 3. Análisis Estadístico
-- [Análisis Estadístico con NumPy](#análisis-estadístico-con-numpy)
+- **Análisis Exploratorio con Seaborn**
+  - [Heatmap de Correlación](#heatmap-de-correlación)
+  - [Pairplot](#pairplot)
+  - [Regplot](#regplot)
 
-## 4. Visualización de Datos con Matplotlib
-- [Serie Temporal del Consumo Energético](#serie-temporal-del-consumo-energético)
-- [Histograma del Consumo Energético](#histograma-del-consumo-energético)
-- [Gráfico de Dispersión](#gráfico-de-dispersión)
+- **Resultados y Discusión**
+  - [Resultados del Análisis](#resultados-del-análisis)
+  - [Preguntas del Taller](#preguntas-del-taller)
+  - [Propuesta de Optimización Energética](#propuesta-de-optimización-energética)
 
-## 5. Análisis Exploratorio con Seaborn
-- [Heatmap de Correlación](#heatmap-de-correlación)
-- [Pairplot](#pairplot)
-- [Regplot](#regplot)
+- **Conclusiones**
+  - [Conclusiones](#conclusiones)
+  - [Aprendizajes Obtenidos](#aprendizajes-obtenidos)
+  - [Trabajo Futuro](#trabajo-futuro)
 
-## 6. Resultados y Discusión
-- [Resultados del Análisis](#resultados-del-análisis)
-- [Preguntas del Taller](#preguntas-del-taller)
-- [Propuesta de Optimización Energética](#propuesta-de-optimización-energética)
+- **Implementación**
+  - [Instalación](#instalación)
+  - [Ejecución](#ejecución)
 
-## 7. Conclusiones y Aprendizajes
-- [Conclusiones](#conclusiones)
-- [Aprendizajes Obtenidos](#aprendizajes-obtenidos)
-- [Trabajo Futuro](#trabajo-futuro)
-
-## 8. Implementación
-- [Instalación](#instalación)
-- [Ejecución](#ejecución)
-
-## 9. Información Legal
-- [Licencia](#licencia)
+- **Información Legal**
+  - [Licencia](#licencia)
 
 ---
 
