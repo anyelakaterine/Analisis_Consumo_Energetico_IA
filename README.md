@@ -25,38 +25,38 @@ Asignatura: Inteligencia Artificial
 <h2 align="center">📑 Tabla de Contenido</h2>
 
 <p align="center">
-<a href="#descripción-del-proyecto">Descripción del Proyecto</a> •
-<a href="#objetivos">Objetivos</a> •
-<a href="#integrantes">Integrantes</a> •
+<a href="#descripción-del-proyecto">Descripción del Proyecto</a> |
+<a href="#objetivos">Objetivos</a> |
+<a href="#integrantes">Integrantes</a> |
 <a href="#información-académica">Información Académica</a>
 </p>
 
 <p align="center">
-<a href="#variables-del-dataset">Variables del Dataset</a> •
-<a href="#herramientas-utilizadas">Herramientas Utilizadas</a> •
+<a href="#variables-del-dataset">Variables del Dataset</a> |
+<a href="#herramientas-utilizadas">Herramientas Utilizadas</a> |
 <a href="#análisis-estadístico-con-numpy">Análisis Estadístico</a>
 </p>
 
 <p align="center">
-<a href="#visualizaciones-con-matplotlib">Visualizaciones</a> •
-<a href="#análisis-exploratorio-con-seaborn">Análisis Exploratorio</a> •
+<a href="#visualizaciones-con-matplotlib">Visualizaciones</a> |
+<a href="#análisis-exploratorio-con-seaborn">Análisis Exploratorio</a> |
 <a href="#resultados-del-análisis">Resultados</a>
 </p>
 
 <p align="center">
-<a href="#preguntas-del-taller">Preguntas del Taller</a> •
+<a href="#preguntas-del-taller">Preguntas del Taller</a> |
 <a href="#propuesta-de-optimización-energética">Optimización Energética</a>
 </p>
 
 <p align="center">
-<a href="#conclusiones">Conclusiones</a> •
-<a href="#aprendizajes-obtenidos">Aprendizajes</a> •
+<a href="#conclusiones">Conclusiones</a> |
+<a href="#aprendizajes-obtenidos">Aprendizajes</a> |
 <a href="#trabajo-futuro">Trabajo Futuro</a>
 </p>
 
 <p align="center">
-<a href="#instalación">Instalación</a> •
-<a href="#ejecución">Ejecución</a> •
+<a href="#instalación">Instalación</a> |
+<a href="#ejecución">Ejecución</a> |
 <a href="#licencia">Licencia</a>
 </p>
 
