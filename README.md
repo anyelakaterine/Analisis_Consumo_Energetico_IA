@@ -22,40 +22,34 @@ Asignatura: Inteligencia Artificial
 
 </p>
 
-# Tabla de Contenido
+# 📑 Tabla de Contenido
 
-1. [Introducción](#introducción)  
-   - Objetivo del proyecto  
-   - Contexto y motivación  
-
-2. [Instalación y requisitos](#instalación-y-requisitos)  
-   - Librerías necesarias  
-   - Configuración del entorno en Colab  
-
-3. [Carga de datos](#carga-de-datos)  
-   - Fuentes de datos  
-   - Preprocesamiento inicial  
-
-4. [Exploración de datos](#exploración-de-datos)  
-   - Estadísticas descriptivas  
-   - Visualizaciones iniciales  
-
-5. [Análisis y modelado](#análisis-y-modelado)  
-   - Técnicas utilizadas  
-   - Resultados obtenidos  
-
-6. [Visualización avanzada](#visualización-avanzada)  
-   - Gráficos comparativos  
-   - Interpretación de resultados  
-
-7. [Conclusiones](#conclusiones)  
-   - Hallazgos principales  
-   - Limitaciones del análisis  
-   - Próximos pasos  
-
-8. [Referencias](#referencias)  
-   - Bibliografía  
-   - Recursos adicionales  
+1. [Descripción del Proyecto](#descripción-del-proyecto)  
+2. [Objetivos](#objetivos)  
+   - [Objetivo General](#objetivo-general)  
+   - [Objetivos Específicos](#objetivos-específicos)  
+3. [Integrantes](#integrantes)  
+4. [Información Académica](#información-académica)  
+5. [Variables del Dataset](#variables-del-dataset)  
+6. [Herramientas Utilizadas](#herramientas-utilizadas)  
+7. [Análisis Estadístico con NumPy](#análisis-estadístico-con-numpy)  
+8. [Visualizaciones con Matplotlib](#visualizaciones-con-matplotlib)  
+   - [Serie Temporal del Consumo Energético](#serie-temporal-del-consumo-energético)  
+   - [Histograma del Consumo Energético](#histograma-del-consumo-energético)  
+   - [Gráfico de Dispersión](#gráfico-de-dispersión)  
+9. [Análisis Exploratorio con Seaborn](#análisis-exploratorio-con-seaborn)  
+   - [Heatmap de Correlación](#heatmap-de-correlación)  
+   - [Pairplot](#pairplot)  
+   - [Regplot](#regplot)  
+10. [Resultados del Análisis](#resultados-del-análisis)  
+11. [Preguntas del Taller](#preguntas-del-taller)  
+12. [Propuesta de Optimización Energética](#propuesta-de-optimización-energética)  
+13. [Conclusiones](#conclusiones)  
+14. [Aprendizajes Obtenidos](#aprendizajes-obtenidos)  
+15. [Trabajo Futuro](#trabajo-futuro)  
+16. [Instalación](#instalación)  
+17. [Ejecución](#ejecución)  
+18. [Licencia](#licencia)  
 
 ---
 
